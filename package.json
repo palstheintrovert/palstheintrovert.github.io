@@ -1,0 +1,23 @@
+{
+  "name": "palstheintrovert.github.io",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "main.js",
+  "dependencies": {
+    "prettier": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palstheintrovert/palstheintrovert.github.io.git"
+  },
+  "author": "Sazid bin Suruj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/palstheintrovert/palstheintrovert.github.io/issues"
+  },
+  "homepage": "https://github.com/palstheintrovert/palstheintrovert.github.io#readme"
+}
