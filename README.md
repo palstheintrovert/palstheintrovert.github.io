@@ -12,6 +12,6 @@
     <img src="https://deepscan.io/api/teams/11871/projects/14810/branches/284091/badge/grade.svg" alt="DeepScan grade" height="20"/>
   </a>
 <a href="https://github.com/prettier/prettier">
-    <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=rounded-square" alt="code style: prettier" height="20"/>
+    <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=rounded-square" alt="code style prettier" height="20"/>
   </a>
 </p>
