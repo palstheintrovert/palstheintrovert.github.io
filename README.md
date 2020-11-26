@@ -15,3 +15,8 @@
     <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=rounded-square" alt="code style prettier" height="20"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://sazid.thedev.id">
+    <img src="https://cdn.statically.io/screenshot/sazid.thedev.id" alt="sazid.thedev.id"/>
+  </a>
+</p>
